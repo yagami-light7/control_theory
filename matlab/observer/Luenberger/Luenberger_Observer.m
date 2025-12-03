@@ -31,7 +31,7 @@
 % $$ y = \left[ \begin{array}{cc} 1 & 0 \end{array} \right] \left[ \begin{array}{c} 
 % x_1 \\ x_2 \end{array} \right] $$
 % 
-% 这就是传说中的标准形式：
+% 这就是状态空间的标准形式：
 %  $$$ \dot{x} = Ax + Bu $$$
 %  $$$ y = Cx + Du $$$
 %% 
